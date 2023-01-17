@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h3 align="center">
   Welcome to Dylan Stewart's profile!
