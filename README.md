@@ -13,14 +13,13 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-    <img alt="Dylan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=trentondenton&theme=monokai-metallian&hide_border=true"/>
+    <img alt="Dylan's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DylanStewart13&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 ### 👨‍💻 Programming Languages & Frameworks
 
 --------------------------------------------------------------------------------------------------------------------------
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,31 +28,25 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 --------------------------------------------------------------------------------------------------------------------------
 ### 🗄️ Databases
 --------------------------------------------------------------------------------------------------------------------------
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------
 ### Operating Systems
 --------------------------------------------------------------------------------------------------------------------------
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------
 ### 📊 Github Stats
 --------------------------------------------------------------------------------------------------------------------------
 
- <img alt="Trenton Denton's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trentondenton&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+ <img alt="Dylan Stewart's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanStewart13&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
 
 <!--
 **DylanStewart13/DylanStewart13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
